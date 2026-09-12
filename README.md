@@ -85,7 +85,7 @@ Interestingly, station *count* doesn't track station *spacing*: the **Orange lin
 Looking at the spread of "distance from first station" per line highlights how far each line's stations range from their starting point — Blue and Pink lines cover the widest span, while smaller lines like Gray and Green line branch stay tightly clustered near their origin.
 
 <p align="center">
-  <img src="assets/line_analysis_subplots.png" alt="Box Plot of Distances by Line" width="800">
+  <img src="assets/distance_by_line_boxplot.png" alt="Box Plot of Distances by Line" width="800">
 </p>
 
 ### Correlation Overview
